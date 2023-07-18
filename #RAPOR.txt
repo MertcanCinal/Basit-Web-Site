@@ -1,0 +1,2 @@
+projemde html5 & css3 ile basit arayüz oluşturdum.
+navbar,logo,menü, background ve button özellikleri kullandım.
